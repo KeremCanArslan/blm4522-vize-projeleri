@@ -1,23 +1,23 @@
 # BLM4522 Vize Projeleri
 
-Ankara Universitesi - Bilgisayar Muhendisligi
+Ankara Universitesi - Bilgisayar Muhendisligi  
 Ag Tabanli Paralel Dagitim Sistemleri (BLM4522)
 
-Ogrenci: Kerem Can Arslan
-Numara: 19291092
-Danisman: Ogr. Gor. Enver BAGCI
+* **Ogrenci:** Kerem Can Arslan
+* **Numara:** 19291092
+* **Danisman:** Ogr. Gor. Enver BAGCI
 
 ## Video Linkleri
 
-Proje 1: https://www.youtube.com/watch?v=Q_WFhbKJc9U
-Proje 3: https://www.youtube.com/watch?v=jzJT98V7VJg
+* **Proje 1:** https://www.youtube.com/watch?v=Q_WFhbKJc9U
+* **Proje 3:** https://www.youtube.com/watch?v=jzJT98V7VJg
 
 ## Icerik
 
-Proje 1 - Veritabani Performans Optimizasyonu ve Izleme
+**Proje 1 - Veritabani Performans Optimizasyonu ve Izleme**
 1 milyon kayitli tablo uzerinde darbogaz analizi, indeks tasarimi ve bellek ayarlari ile yaklasik yuzde 40 hizlanma elde edildi.
 
-Proje 3 - Veritabani Guvenligi ve Erisim Kontrolu
+**Proje 3 - Veritabani Guvenligi ve Erisim Kontrolu**
 Rol tabanli erisim, Row-Level Security, pgcrypto ile kolon bazli sifreleme, SQL injection savunmasi ve trigger tabanli audit log sistemi uygulandi.
 
 ## Kurulum
