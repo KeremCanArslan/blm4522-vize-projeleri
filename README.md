@@ -7,6 +7,11 @@ Ogrenci: Kerem Can Arslan
 Numara: 19291092
 Danisman: Ogr. Gor. Enver BAGCI
 
+## Video Linkleri
+
+Proje 1: https://www.youtube.com/watch?v=Q_WFhbKJc9U
+Proje 3: https://www.youtube.com/watch?v=jzJT98V7VJg
+
 ## Icerik
 
 Proje 1 - Veritabani Performans Optimizasyonu ve Izleme
